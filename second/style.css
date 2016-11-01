@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+}
+
+
+
+.col-1 {
+	background-color: #199ad8;
+	width: calc(100% / 3);
+	height: 100vh;
+	float: left;
+}
+
+.col-2 {
+	background-color: #98f7dd;
+	height: 100vh;
+	width: calc(100% / 3);
+	float: left;
+}
+
+.col-3 {
+	background-color: #ddefa7;
+	height: 100vh;
+	width: calc(100% / 3);
+	float: left;
+}

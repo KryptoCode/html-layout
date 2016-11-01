@@ -1,0 +1,26 @@
+body {
+	background-color: #e0e0e0;
+	margin: 0;
+}
+
+header {
+	background-color: #3c3b3b;
+	width: 100vw;
+	height: 180px;
+}
+
+.content-area {
+	background-color: #fff;
+	width: calc(100% - 300px);
+	height: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	background-color: #3c3b3b;
+	width: calc(100% - 300px);
+	height: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
